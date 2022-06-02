@@ -78,7 +78,7 @@ body{
   min-width: 1200px;
 }
 
-.clmn_2 ul li a:hover {
+ul li a:hover {
     color: #FDBA2F;
 
 }
