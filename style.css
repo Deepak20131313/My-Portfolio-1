@@ -168,7 +168,7 @@ ul li a:hover {
   box-sizing: border-box;
 }
 .col-1{
- background-image: url(/images/Ellipse%202.png);
+ background-image: url(images/Ellipse%202.png);
  background-position: -16% 96%;
  background-repeat: no-repeat;
 }
@@ -177,7 +177,7 @@ ul li a:hover {
   height: 686px;
   margin: 0px auto;
   box-sizing: border-box;
-  background-image: url(/images/Path%2033.png), url(http://127.0.0.1:5500/images/Path%204607.png);
+  background-image: url(images/Path%2033.png), url(images/Path%204607.png);
   background-position: 0% 0%, 90% 99%;
   background-repeat: no-repeat, no-repeat;
   padding-top: 1px;
@@ -187,7 +187,7 @@ ul li a:hover {
   height: 686px;
   margin: 0px auto;
   box-sizing: border-box;
-  background-image: url(/images/Group%20477.png), url(http://127.0.0.1:5500/images/Group%20492.png);
+  background-image: url(/images/Group%20477.png), url(images/Group%20492.png);
   background-position: 110% 22%, 10% 96%;
   background-repeat: no-repeat, no-repeat;
   padding-top: 1px;
@@ -335,7 +335,7 @@ button.btn {
 }
 .col-12.bg_1 {
   padding: 6%;
-  background-image: url(/images/Path%2032.png);
+  background-image: url(images/Path%2032.png);
   background-position: -10% 96%;
   background-repeat: no-repeat;
 }
@@ -420,7 +420,7 @@ button.btn {
 }
 .year1 {
   height: 190px;
-  background-image: url(/images/Line%2019.png);
+  background-image: url(images/Line%2019.png);
   background-position: 4% 96%;
   background-repeat: no-repeat;
   margin-top: 5%;
@@ -432,7 +432,7 @@ button.btn {
 }
 
 .row.yrrw {
-  background-image: url(http://127.0.0.1:5500/images/Path%204625.png), url(http://127.0.0.1:5500/images/Group%20481.png);
+  background-image: url(images/Path%204625.png), url(images/Group%20481.png);
   background-position: 116% 60%, 6% 100%;
   background-repeat: no-repeat, no-repeat;
 }
@@ -443,7 +443,7 @@ button.btn {
 }
 
 .netrw {
-  background-image: url(http://127.0.0.1:5500/images/networking.jpg);
+  background-image: url(images/networking.jpg);
   background-position: 100% 100%;
   background-repeat: no-repeat;
   margin-top: 4%;
@@ -689,7 +689,7 @@ button.btn {
       height: 585px;
       margin: 0px auto;
       box-sizing: border-box;
-      background-image: url(http://127.0.0.1:5500/images/Path%2033.png), url(http://127.0.0.1:5500/images/Path%204607.png);
+      background-image: url(images/Path%2033.png), url(images/Path%204607.png);
       background-position: 0% 0%, 100% 100%;
       background-repeat: no-repeat, no-repeat;
       padding-top: 1px;
@@ -699,7 +699,7 @@ button.btn {
       height: 580px;
       margin: 0px auto;
       box-sizing: border-box;
-      background-image: url(http://127.0.0.1:5500/images/Group%20477.png), url(http://127.0.0.1:5500/images/Group%20492.png);
+      background-image: url(images/Group%20477.png), url(images/Group%20492.png);
       background-position: 110% 22%, 0% 100%;
       background-repeat: no-repeat, no-repeat;
       padding-top: 1px;
@@ -808,7 +808,7 @@ margin-bottom: 20px;
   font-size: 30px;
 }
 .row.yrrw {
-  background-image: url(http://127.0.0.1:5500/images/Path%204625.png), url(http://127.0.0.1:5500/images/Group%20481.png);
+  background-image: url(images/Path%204625.png), url(images/Group%20481.png);
   background-position: 183% 60%, 6% 100%;
   background-repeat: no-repeat, no-repeat;
 }
@@ -845,7 +845,7 @@ margin-bottom: 20px;
 }
 .col-12.bg_1 {
   padding: 8%;
-  background-image: url(http://127.0.0.1:5500/images/Path%2032.png);
+  background-image: url(images/Path%2032.png);
   background-position: -45% 100%;
   background-repeat: no-repeat;
 }
