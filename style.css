@@ -78,8 +78,8 @@ body{
   min-width: 1200px;
 }
 
-ul li a:hover {
-    color: #FDBA2F;
+.clmn_2 ul li a:hover {
+    color: #FDBA2F !important;
 
 }
  .clmn_1 {
