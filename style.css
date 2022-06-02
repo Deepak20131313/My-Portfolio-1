@@ -77,6 +77,11 @@ body{
   padding: 15px 65px;
   min-width: 1200px;
 }
+
+.clmn_2 ul li a:hover {
+    color: #FDBA2F;
+
+}
  .clmn_1 {
     width: 20%;
     float: left;
