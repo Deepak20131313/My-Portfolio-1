@@ -11,11 +11,11 @@ function myFunction(x) {
 
 jQuery(function(){
          jQuery('#showall').click(function(){
-               jQuery('.targetDiv').slideDown("slow");
+               jQuery('.targetDiv').show();
         });
         jQuery('.showSingle').click(function(){
-              jQuery('.targetDiv').slideUp();
-              jQuery('#div'+$(this).attr('target')).slideDown("slow");
+              jQuery('.targetDiv').hide();
+              jQuery('#div'+$(this).attr('target')).show();
                
         });
 });
