@@ -167,10 +167,10 @@ ul li a:hover {
   margin: 0 auto;
   box-sizing: border-box;
 }
-.col-1{
- background-image: url(images/Ellipse%202.png);
- background-position: -16% 96%;
- background-repeat: no-repeat;
+.col-1 {
+    background-image: url(images/Ellipse%202.png);
+    background-position: -36% 100%;
+    background-repeat: no-repeat;
 }
 .form_container {
   width: 100%;
@@ -711,7 +711,7 @@ button.btn {
   }
     .col-1 {width: 100%;
       float: none;
-      padding: 4% 2%;
+      padding: 4% 3%;
       box-sizing: border-box;}
 
    .col-2 {width: 100%;
