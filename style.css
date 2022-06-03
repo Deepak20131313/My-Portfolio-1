@@ -630,7 +630,9 @@ select{
 .lrn{
   margin-top: 3%;
 }
-
+textarea{
+  background-color: #fff !important;
+}
 
 
 
