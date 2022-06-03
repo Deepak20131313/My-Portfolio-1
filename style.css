@@ -851,6 +851,8 @@ margin-bottom: 20px;
     background-position: -146% 10%;
     background-repeat: no-repeat;
 }
-
+.col-12.clm-4 {
+    padding: 6% 2% !important;
+  }
 }
                                     
