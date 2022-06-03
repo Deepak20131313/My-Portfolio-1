@@ -618,11 +618,12 @@ button.btn {
     font-weight: 600;
 }
 
-input[type="text"]{
+input{
  height: 30px !important; 
+   background: white !important;
   
 }
-input, select, textarea {
+select{
     height: 42px !important;
     background: white !important;
 }
