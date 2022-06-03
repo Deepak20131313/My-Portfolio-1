@@ -846,10 +846,10 @@ margin-bottom: 20px;
   width: 99%;
 }
 .col-12.bg_1 {
-  padding: 8%;
-  background-image: url(images/Path%2032.png);
-  background-position: -45% 100%;
-  background-repeat: no-repeat;
+    padding: 8%;
+    background-image: url(images/Path%2032.png);
+    background-position: -146% 10%;
+    background-repeat: no-repeat;
 }
 
 }
