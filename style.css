@@ -485,7 +485,8 @@ button.btn {
 
 }
 .row.rw2 {
-  padding: 6% 2%;
+    padding: 6% 2% 1% 2%;
+    box-sizing: border-box;
 }
 .row.rw2 h3 {
   font-size: 100px;
@@ -605,7 +606,17 @@ button.btn {
 .targetDiv {
     padding: 3% 4%;
 }
-
+.content_1 h6 {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 10px;
+}
+.year1 h3 {
+    font-weight: 600;
+}
+.year2 h3 {
+    font-weight: 600;
+}
 @media only screen and (max-width: 1050px) and (min-width: 768px) {
   .main_container {
     width: 100% !important;
