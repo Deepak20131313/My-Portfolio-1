@@ -594,8 +594,8 @@ button.btn {
 
 
 .btn-hover.color-2 {
-    background-image: linear-gradient(to right, #f5ce62, #e43603, #fa7199, #e85a19);
-    box-shadow: 0 4px 15px 0 rgba(229, 66, 10, 0.75);
+    background-image: linear-gradient(to right, #fdba2f, #182b45, #182b45, #fdba2f);
+    box-shadow: 0 4px 1px 0 rgb(191 190 180 / 82%);
 }
 
 .targetDiv .col-lg-6 {
