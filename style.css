@@ -524,6 +524,84 @@ button.btn {
   background: #182b4561;
   padding: 1%;
 }
+#div2 {
+    display: none;    
+}
+#div3 {
+    display: none;    
+}
+#div4 {
+    display: none;    
+}
+#div5 {
+    display: none;    
+}
+
+.buttons a {
+    background-color: #11100F;
+    padding: 15px 20px;
+    display: inline-block;
+    height: 56px;
+    width: 149px;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'arial';
+    text-align: center;
+    margin-bottom: 15px;
+    border-radius: 18px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.active {
+    background-color:#FDBA2F !important;
+}
+
+.buttons {
+    margin: 0%;
+    text-align: center;
+}
+
+.btn-hover {
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:focus {
+    outline: none;
+}
+
+
+.btn-hover.color-2 {
+    background-image: linear-gradient(to right, #f5ce62, #e43603, #fa7199, #e85a19);
+    box-shadow: 0 4px 15px 0 rgba(229, 66, 10, 0.75);
+}
+
+.targetDiv .col-lg-6 {
+
+    float: left !important;
+}
 
 
 @media only screen and (max-width: 1050px) and (min-width: 768px) {
