@@ -852,7 +852,11 @@ margin-bottom: 20px;
     background-repeat: no-repeat;
 }
 .col-12.clm-4 {
-    padding: 6% 2% !important;
+    padding: 6% 2% ;
   }
+  .col-12.clm-4 ul {
+    width: 70%;
+    margin-left: 20px;
+}
 }
                                     
