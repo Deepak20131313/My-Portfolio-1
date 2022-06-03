@@ -602,7 +602,9 @@ button.btn {
 
     float: left !important;
 }
-
+.targetDiv {
+    padding: 3% 4%;
+}
 
 @media only screen and (max-width: 1050px) and (min-width: 768px) {
   .main_container {
@@ -940,6 +942,13 @@ margin-bottom: 20px;
   .coll-5 img {
     width: 70%;
     margin-bottom: 25px;
+}
+  .targetDiv .col-lg-6 {
+
+    float: none !important;
+}
+.targetDiv {
+    padding: 2% 1%;
 }
 }
                                     
