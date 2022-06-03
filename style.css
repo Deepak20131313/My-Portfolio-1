@@ -21,41 +21,41 @@ body{
   clear: both;
   display: table;
 }
-.col-1 {width: 50%;
+.coll-1 {width: 50%;
        float: left;
        padding: 5% 4%;
        box-sizing: border-box;}
 
-.col-2 {width: 50%;
+.coll-2 {width: 50%;
        float: left;
        box-sizing: border-box;}
 
-.col-3 {width: 33.33%;
+.coll-3 {width: 33.33%;
         box-sizing: border-box;}
 
-.col-4 {width: 33.33%;
+.coll-4 {width: 33.33%;
         box-sizing: border-box;}
 
-.col-5 {width: 40%;
+.coll-5 {width: 40%;
         float: left;
         padding: 2% 4%;
         box-sizing: border-box;}
 
-.col-6 {width: 60%;
+.coll-6 {width: 60%;
         float: left;
         box-sizing: border-box;
         padding: 0% 4%;
       }
 
-.col-7 {width: 58.33%;}
-.col-8 {width: 66.66%;}
-.col-9 {width: 75%;}
-.col-10 {width: 83.33%;}
-.col-11 {width: 25%;
+.coll-7 {width: 58.33%;}
+.coll-8 {width: 66.66%;}
+.coll-9 {width: 75%;}
+.coll-10 {width: 83.33%;}
+.coll-11 {width: 25%;
   float: left;
   box-sizing: border-box;}
-.col-12 {width: 100%;}
-.col-13 {width: 16%;
+.coll-12 {width: 100%;}
+.coll-13 {width: 16%;
         float: left;
         box-shadow: 0px 12px 20px #00000029;
         border-radius: 10px;
@@ -167,7 +167,7 @@ ul li a:hover {
   margin: 0 auto;
   box-sizing: border-box;
 }
-.col-1 {
+.coll-1 {
     background-image: url(images/Ellipse%202.png);
     background-position: -36% 100%;
     background-repeat: no-repeat;
@@ -298,7 +298,7 @@ text-align: center;
 margin-top: 10px;
 margin-bottom: 10px;
 }
-.col-13 p{
+.coll-13 p{
   font-size: 16px;
   color: #11100F;
   font-family: 'arial';
@@ -323,7 +323,7 @@ button.btn {
   display: block;
   font-weight: 700;
  }
- .col-12.btncl {
+ .coll-12.btncl {
   margin-top: 4%;
 }
 #grad5 {
@@ -333,19 +333,19 @@ button.btn {
   background-image: linear-gradient(10deg, white, #fdba2f);
   margin: 0 auto;
 }
-.col-12.bg_1 {
+.coll-12.bg_1 {
   padding: 6%;
   background-image: url(images/Path%2032.png);
   background-position: -10% 96%;
   background-repeat: no-repeat;
 }
-.col-5 h2 {
+.coll-5 h2 {
   font-size: 52px;
   color: #11100F;
   font-family: 'Montserrat';
   margin-bottom: 40px;
 }
-.col-6 img {
+.coll-6 img {
   z-index: 999 !important;
   position: relative;
 }
@@ -362,10 +362,10 @@ button.btn {
   z-index: 3;
   position: relative; 
 }
-.col-12.thrddvider {
+.coll-12.thrddvider {
   margin-top: 6%;
 }
-.col-12.gryh2 h2 {
+.coll-12.gryh2 h2 {
   font-size: 100px;
   color: #E2E2E2;
   font-family: 'Montserrat';
@@ -374,7 +374,7 @@ button.btn {
   margin-bottom: 30px;
 }
 
-.col-5.Paid h3 {
+.coll-5.Paid h3 {
   font-size: 45px;
   color: #11100F;
   font-family: 'Montserrat';
@@ -382,14 +382,14 @@ button.btn {
   margin-top: 20px;
   margin-top: 42%;
 }
-.col-5.Paid h4 {
+.coll-5.Paid h4 {
   font-size: 45px;
   color: #11100F;
   font-family: 'Montserrat';
   margin-bottom: 20px;
   margin-top: 20px;
 }
-.col-5.Paid h2 {
+.coll-5.Paid h2 {
   font-size: 150px;
   line-height: 1em;
   color: #FDBA2F;
@@ -438,7 +438,7 @@ button.btn {
   background-repeat: no-repeat, no-repeat;
 }
 
-.col-12.bg-12 img {
+.coll-12.bg-12 img {
   border-radius: 10px;
   margin-top: 3%;
 }
@@ -450,7 +450,7 @@ button.btn {
   margin-top: 4%;
   height: 350px;
 }
-.col-12.bg-12 h3 {
+.coll-12.bg-12 h3 {
   font-size: 90px;
   font-family: 'arial';
   color: #F1F1F1;
@@ -458,22 +458,22 @@ button.btn {
   padding-top: 5%;
   opacity: 0.9;
 }
-.col-12.bg-12 {
+.coll-12.bg-12 {
   background-color: #00000061;
   height: 350px;
 }
-.col-12.clm-4 li {
+.coll-12.clm-4 li {
   list-style: none;
   display: inline-block;
   padding: 2% 5%;
 
 }
-.col-12.clm-4 ul {
+.coll-12.clm-4 ul {
   width: 65%;
   margin: 0 auto;
   text-align: center;
 }
-.col-12.clm-4 {
+.coll-12.clm-4 {
   width: 90%;
   box-shadow: 0px 12px 20px #00000029;
   padding: 2% 0%;
@@ -498,16 +498,16 @@ button.btn {
 .ftr_rw {
   background: #182B45;
 }
-.col-11 {
+.coll-11 {
   padding: 2% 3%;
 }
-.col-11 h3 {
+.coll-11 h3 {
   color: #fff;
   text-align: left;
   font-size: 20px;
   font-family: 'arial';
 }
-.col-11 p {
+.coll-11 p {
   color: #fff;
   font-size: 16px;
   font-family: 'arial';
@@ -599,12 +599,12 @@ button.btn {
         float: right;
     }
 
-.col-1 {width: 100%;
+.coll-1 {width: 100%;
       float: none;
       padding: 5% 4%;
       box-sizing: border-box;}
 
-.col-2 {width: 100%;
+.coll-2 {width: 100%;
       float: none;
       box-sizing: border-box;}
 
@@ -709,12 +709,12 @@ button.btn {
     .row {
       padding: 1%;
   }
-    .col-1 {width: 100%;
+    .coll-1 {width: 100%;
       float: none;
       padding: 4% 3%;
       box-sizing: border-box;}
 
-   .col-2 {width: 100%;
+   .coll-2 {width: 100%;
       float: none;
       padding: 2%;
       box-sizing: border-box;}
@@ -755,7 +755,7 @@ margin-bottom: 20px;
   width: 100%;
   margin: initial;
 }
-.col-13 {width: 100%;
+.coll-13 {width: 100%;
   float: none;
   box-shadow: 0px 12px 20px #00000029;
   border-radius: 10px;
@@ -767,13 +767,13 @@ margin-bottom: 20px;
   font-size: 30px;
 
 }
-.col-5 {
+.coll-5 {
   width: 100%;
   float: none;
   padding: 2% 4%;
   box-sizing: border-box;
 }
-.col-6 {
+.coll-6 {
   width: 100%;
   float: none;
   box-sizing: border-box;
@@ -785,28 +785,28 @@ margin-bottom: 20px;
     height: 155px;
     margin-left: -10px;
 }
-.col-6 img {
+.coll-6 img {
   z-index: 999 !important;
   position: relative;
   width: 99%;
 }
-.col-12.thrddvider {
+.coll-12.thrddvider {
   margin-top: 12%;
 }
-.col-5 h2 {
+.coll-5 h2 {
   font-size: 28px;
 }
-.col-12.gryh2 h2 {
+.coll-12.gryh2 h2 {
   font-size: 45px;
 }
-.col-5.Paid h3 {
+.coll-5.Paid h3 {
   font-size: 30px;
   margin-top: 3%;
 }
-.col-5.Paid h2 {
+.coll-5.Paid h2 {
   font-size: 100px;
 }
-.col-5.Paid h4 {
+.coll-5.Paid h4 {
   font-size: 30px;
 }
 .row.yrrw {
@@ -828,12 +828,12 @@ margin-bottom: 20px;
   font-size: 30px;
   margin-left: 74px;
 }
-.col-12.bg-12 h3 {
+.coll-12.bg-12 h3 {
   font-size: 46px;
   padding-top: 16%;
 
 }
-.col-12.bg-12 {
+.coll-12.bg-12 {
   background-color: #00000061;
   height: 321px;
   position: absolute;
@@ -843,23 +843,23 @@ margin-bottom: 20px;
 .row.rw2 h3 {
   font-size: 45px;
 }
-.col-11 {
+.coll-11 {
   width: 99%;
 }
-.col-12.bg_1 {
+.coll-12.bg_1 {
     padding: 8%;
     background-image: url(images/Path%2032.png);
     background-position: -110% 10%;
     background-repeat: no-repeat;
 }
-.col-12.clm-4 {
+.coll-12.clm-4 {
     padding: 6% 2% ;
   }
-  .col-12.clm-4 ul {
+  .coll-12.clm-4 ul {
     width: 70%;
     margin-left: 20px;
 }
-  .col-5 img {
+  .coll-5 img {
     width: 70%;
     margin-bottom: 25px;
 }
