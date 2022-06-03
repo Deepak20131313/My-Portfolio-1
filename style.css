@@ -713,6 +713,9 @@ button.btn {
 }
 }
 @media only screen and (max-width: 767px) {
+  *body {
+    background-color: #fff;
+}
   .main_container {
     width: 100% !important;
     display: block;
@@ -959,7 +962,7 @@ margin-bottom: 20px;
     float: none !important;
 }
 .targetDiv {
-    padding: 2% 1%;
+    padding: 10% 3%;
 }
 }
                                     
