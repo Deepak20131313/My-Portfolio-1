@@ -554,7 +554,7 @@ button.btn {
     text-decoration: none;
 }
 .active {
-    background-color:#FDBA2F !important;
+   background-image: linear-gradient(to right, #f5ce62, #e43603, #e43603, #f5ce62) !important;
 }
 
 .buttons {
@@ -595,7 +595,7 @@ button.btn {
 
 
 .btn-hover.color-2 {
-    background-image: linear-gradient(to right, #f5ce62, #e43603, #fa7199, #e85a19);
+    background-image: linear-gradient(to right, #f5ce62, #e43603, #e43603, #f5ce62);
     box-shadow: 0 4px 15px 0 rgb(229 66 10 / 75%);
 }
 
