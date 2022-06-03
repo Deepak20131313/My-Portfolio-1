@@ -782,7 +782,8 @@ margin-bottom: 20px;
 .box1 {
     border: 5px solid #FDBA2F;
     width: 84%;
-    height: 150px;
+    height: 155px;
+    margin-left: -10px;
 }
 .col-6 img {
   z-index: 999 !important;
