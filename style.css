@@ -809,9 +809,10 @@ margin-bottom: 20px;
   font-size: 30px;
 }
 .row.yrrw {
-  background-image: url(images/Path%204625.png), url(images/Group%20481.png);
-  background-position: 183% 60%, 6% 100%;
-  background-repeat: no-repeat, no-repeat;
+    background-image: url(images/Path%204625.png), url(images/Group%20481.png);
+    background-position: 828% 65%, -60% 104%;
+    background-repeat: no-repeat, no-repeat;
+    padding-bottom: 28%;
 }
 .numb1 {
   font-size: 45px;
