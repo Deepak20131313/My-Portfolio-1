@@ -14,7 +14,7 @@ jQuery(function(){
                jQuery('.targetDiv').slideDown("slow");
         });
         jQuery('.showSingle').click(function(){
-              jQuery('.targetDiv').hide();
+              jQuery('.targetDiv').slideUp("slow");
               jQuery('#div'+$(this).attr('target')).slideDown("slow");
                
         });
